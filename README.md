@@ -1,4 +1,4 @@
 # college-demo
 This is demo from apna college youtube channel.
-<br> 
-author - muzzafar shaikh
+<br>
+Author - muzzafar shaikh
